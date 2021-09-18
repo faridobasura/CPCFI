@@ -1,0 +1,15 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	string input, comp;
+	int i;
+
+	cin>>input;
+
+	for(i=0;i<input.lentgh(); i++){
+	
+	}
+	return 0;
+}
