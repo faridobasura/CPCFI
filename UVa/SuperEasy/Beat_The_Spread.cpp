@@ -29,7 +29,7 @@ int main(){
 			if(x>y){
 				cout<<x<<" "<<y<<endl;
 			}
-			else if (y>x){
+			else{
 				cout<<y<<" "<<x<<endl;
 			}
 		}
